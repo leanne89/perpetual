@@ -116,6 +116,10 @@ input.error, textarea.error {
     font-size: 20pt;
 }
 
+.background-image-1 .success {
+    color: white;
+}
+
 .error {
     color: #ff3333;
     padding: 20px;
